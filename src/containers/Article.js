@@ -1,6 +1,6 @@
 import React from "react";
 
-function Article({ children }) {
+function Article() {
   const articleTitle = `Single Article`;
   return (
     <div>
